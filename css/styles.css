@@ -575,6 +575,39 @@ ul.share-buttons .sr-only{
   height: 100px;
 }
 
+.socialflex{
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.compartir{
+  margin-top: -1rem;
+  text-align: center;
+}
+
+.socialcustom{
+  width: 80px;
+  height: 80px;
+
+
+}
+.socialcustom1{
+  width: 80px;
+  height: 80px;
+  margin-right: 7rem;
+
+
+}.socialcustom2{
+  width: 80px;
+  height: 80px;
+  margin-left: 5.5rem;
+
+
+}
 
 @media (min-width: 576px) {
   .container {
@@ -10306,7 +10339,7 @@ body {
   }
 
   .featuredproduct{
-    
+
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
