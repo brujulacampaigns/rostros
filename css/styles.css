@@ -10355,11 +10355,10 @@ body {
   }
   .cherrybomb-featured{
     display: block;
-    width: 100%;
+    width: 115%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    margin-left: -3rem;
 
 
   }
