@@ -609,6 +609,26 @@ ul.share-buttons .sr-only{
 
 }
 
+#mc_embed_signup{
+padding-top: 2rem;
+padding-bottom: 2rem;
+
+}
+
+#mailchimpboton{
+  font-family: Open Sans, sans-serif;
+font-size: 18px;
+padding-top: 17px;
+padding-bottom: 17px;
+background-color: #b5141a;
+border-radius: 6px;
+padding-left: 7px;
+padding-right: 7px;
+color: white;
+border-color: transparent;
+
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
