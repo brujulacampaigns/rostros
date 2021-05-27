@@ -629,6 +629,13 @@ border-color: transparent;
 
 }
 
+#flexboxrostro{
+   display: flexbox;
+   flex-direction: row;
+
+
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
